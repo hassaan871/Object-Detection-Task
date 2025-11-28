@@ -1,2 +1,7 @@
 .env
 venv
+
+# ignore the datasets
+*.jpg
+*.txt
+*.yaml
